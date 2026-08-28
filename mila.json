@@ -1453,43 +1453,43 @@
   "tables": [
         {
           "id": 1,
-          "number": "A01",
+          "number": "A01"
         },
         {
           "id": 2,
-          "number": "A02",
+          "number": "A02"
         },
         {
           "id": 3,
-          "number": "B01",
+          "number": "B01"
         },
         {
           "id": 4,
-          "number": "B02",
+          "number": "B02"
         },
         {
           "id": 5,
-          "number": "C01",
+          "number": "C01"
         },
         {
           "id": 6,
-          "number": "C02",
+          "number": "C02"
         },
         {
           "id": 7,
-          "number": "D01",
+          "number": "D01"
         },
         {
           "id": 8,
-          "number": "D02",
+          "number": "D02"
         },
         {
           "id": 9,
-          "number": "E01",
+          "number": "E01"
         },
         {
           "id": 10,
-          "number": "E02",
+          "number": "E02"
         }
       ]
 }
