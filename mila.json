@@ -1,50 +1,4 @@
 {
-  "categories": [
-    {
-      "id": "coffee",
-      "name": "Coffee"
-    },
-    {
-      "id": "frappe-blended",
-      "name": "Frappe & Blended"
-    },
-    {
-      "id": "tea",
-      "name": "Tea"
-    },
-    {
-      "id": "matcha",
-      "name": "Matcha"
-    },
-    {
-      "id": "chocolate-milk",
-      "name": "Chocolate & Milk"
-    },
-    {
-      "id": "rice-meal",
-      "name": "Rice & Meal"
-    },
-    {
-      "id": "japanese-korean",
-      "name": "Japanese & Korean"
-    },
-    {
-      "id": "fried-savory",
-      "name": "Fried & Savory"
-    },
-    {
-      "id": "sandwich-toast",
-      "name": "Sandwich & Toast"
-    },
-    {
-      "id": "bakery-pastry",
-      "name": "Bakery & Pastry"
-    },
-    {
-      "id": "combo-package",
-      "name": "Combo & Package"
-    }
-  ],
   "products": [
     {
       "id": 1,
@@ -1342,7 +1296,7 @@
         "resetTimezone": "Asia/Jakarta",
         "lastResetDate": null
       },
-      "image": ""
+      "image": "https://files.catbox.moe/639416.png"
     },
     {
       "id": 48,
@@ -1495,73 +1449,47 @@
       "image": "https://files.catbox.moe/npfsh5.png"
     }
   ],
-  "locations": [
-    {
-      "id": 1,
-      "name": "Lumora Bandung",
-      "address": "Bandung",
-      "tables": [
+  
+  "tables": [
         {
           "id": 1,
           "number": "A01",
-          "capacity": 2,
-          "status": "available"
         },
         {
           "id": 2,
           "number": "A02",
-          "capacity": 2,
-          "status": "available"
         },
         {
           "id": 3,
           "number": "B01",
-          "capacity": 4,
-          "status": "available"
         },
         {
           "id": 4,
           "number": "B02",
-          "capacity": 4,
-          "status": "available"
         },
         {
           "id": 5,
           "number": "C01",
-          "capacity": 6,
-          "status": "available"
         },
         {
           "id": 6,
           "number": "C02",
-          "capacity": 2,
-          "status": "available"
         },
         {
           "id": 7,
           "number": "D01",
-          "capacity": 4,
-          "status": "available"
         },
         {
           "id": 8,
           "number": "D02",
-          "capacity": 6,
-          "status": "available"
         },
         {
           "id": 9,
           "number": "E01",
-          "capacity": 2,
-          "status": "available"
         },
         {
           "id": 10,
           "number": "E02",
-          "capacity": 8,
-          "status": "available"
         }
       ]
-    }
-  ]
 }
